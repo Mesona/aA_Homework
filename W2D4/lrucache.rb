@@ -3,6 +3,8 @@ class LRUCache
   def initialize(limit)
     @limit = limit
     @cache = []
+    @head = []
+    @foot = []
   end
 
   def count
