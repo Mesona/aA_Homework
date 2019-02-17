@@ -1,3 +1,7 @@
 *.zip
 .DS_Store
+./W6D5/jobListing/bundle.js
+./W6D5/jobListing/bundle.js.map
+./W6D5/jobListing/node_modules/
+
 
